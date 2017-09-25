@@ -1,0 +1,8 @@
+Machine learning is one of those fuzzy topics that gets thrown around a lot as
+a silver bullet. But... what the heck is it? Zach Miller, a senior data
+scientist as Metis, is going to take a stab at demystifying it. He'll
+introduce the concept of pattern recognition in data, what to do when your
+data gets to big for humans to read, and how machine learning can solve some
+of your problems. He'll also spend some time showing you machine learning in action, demonstrating the
+power of analytical decision making (without getting into all the the math),
+and talking about how machine learning can help save lives and dollars. 
